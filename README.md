@@ -2,7 +2,7 @@
 
 CivicLens is a **cinematic, scroll driven 3D web experience** designed to visually communicate civic problems, processes, and accountability in a modern and engaging way. The project uses **Three.js + GSAP ScrollTrigger** to create Apple-style camera choreography, smooth text transitions, and a premium storytelling flow.
 
-This repository focuses on the **visual narrative layer** of CivicLens — showing how civic issues emerge, are tracked, and get resolved through a single evolving 3D scene.
+This repository focuses on the **visual narrative layer** of CivicLens showing how civic issues emerge, are tracked, and get resolved through a single evolving 3D scene.
 
 ---
 
